@@ -1,0 +1,2 @@
+# wagtail-intern-test
+
