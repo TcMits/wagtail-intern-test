@@ -23,8 +23,8 @@ Những commit vào trước 00:00 ngày 24/08/2022 sẽ được tính vào bà
 
 ## Note
 - Nhớ hãy tạo một nhánh khác để push code
-- Các form ở Footer, Contact Us phái submit được
-- Các section nào trong trang Home không liên quan đến các Trang trong task có thể bỏ qua
+- Các form ở Footer, Contact Us phải submit và lưu lại được
+- Các section nào trong trang Home không liên quan đến các trang trong task có thể bỏ qua
 - Menu ở Footer và Navbar có thể bỏ bớt những trang không nằm trong task
 - Những button có liên kết đến những trang trong task phải được thêm link vào
 
